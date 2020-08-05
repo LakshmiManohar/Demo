@@ -5,6 +5,7 @@
     <classes>
       <class name="selenium.WebElement_HMs"/>
        <class name="selenium.WebElement_Rajesh"/>
+      <class name="selenium.WebElement_Rajesh2 HMS"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
